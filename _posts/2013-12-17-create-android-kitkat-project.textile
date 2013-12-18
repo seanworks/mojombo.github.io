@@ -11,5 +11,8 @@ This post describes how to create an Android application that is compatible with
 
 h2. Step 1
 Launch the Eclipse IDE
+
 h2. Step 2
 File -> New -> Android Application Project
+
+h3. Step 3
