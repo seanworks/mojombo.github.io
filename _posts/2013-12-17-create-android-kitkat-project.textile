@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Create an Android KitKat Application
+title: Create an Android KitKat Application using the Eclipse IDE
 ---
 
 h1. {{ page.title }}
 
 p(meta). 17 December 2013
 
-This post describes how to create an Android application that is compatible with Android 4.4, KitKat. The latest release of Android provides many new features and build on top of the rich Android SDK. The KitKat release reduces the memory utilization of every component, so that applications can be written that are responsive with limited resources. Skip over to "Android Developer":http://developer.android.com/about/versions/kitkat.html for the new features such as the printing framework, SMS providers, full-screen immersive mode, Chromium WebView, and more! Now, follow along for step by step directions to create an Android KitKat application using the Eclipse IDE.
+This post describes how to create an Android application that is compatible with Android 4.4, KitKat. The latest release of Android provides many new features and build on top of the rich Android SDK. The KitKat release reduces the memory utilization of every component, so that applications can be written that are responsive with limited resources. Skip over to "Android Developer":http://developer.android.com/about/versions/kitkat.html for the new features such as the printing framework, SMS providers, full-screen immersive mode, Chromium WebView, and more! This article assumes that you have the Eclipse IDE installed with the ADT plugin and the Android 4.4 KitKat SDK installed. Now, follow along for step by step directions to create an Android KitKat application using the Eclipse IDE.
 
 h2. Step 1
 
@@ -17,4 +17,22 @@ h2. Step 2
 
 File -> New -> Android Application Project
 
-h3. Step 3
+h2. Step 3
+
+Enter an application name, project name, and package name. The application name is used to identify the application in the Google Play Store. The project name is used by the Eclipse IDE to identify the project and can be the same as the application name as long as it is unique in the Eclipse IDE. The package name is a unique identifier that identifies your application. Typically, the package name includes your domain name to create a unique identifier. For example, if I was going to create a HelloWorld Android application, my package name would be com.seanlabs.helloworld. 
+
+h2. Step 4
+
+Select the Minimum Required SDK, Target SDK, Compile With, and Theme options to support the Android 4.4 KitKat SDK. In order to support a wide range of devices, select API 8: Android 2.2 (Froyo) for the Minimum Required SDK. For the Target SDK and Compile With options, select API 19: Android 4.4 (KitKat). Select any of the options in the Theme dropdown options. The default theme option is Holo Light with Dark Action Bar. After selecting each option, click Next to complete the configuration of the application.
+
+h2. Step 5
+
+Select the Create Activity and Create Project in Workspace checkboxes to configure the project. Click Next to move to the Create Application screen.
+
+h2. Step 6
+
+Select the Create Activity checkbox and the Blank Activity to create a blank activity skeleton. Once you have selected these options, click Finish and the Eclipse IDE will generate the Android application project. 
+
+h2. Next Steps...
+
+Now that you have created an Android 4.4 KitKat project, it is time to modify the source code to create that next big Android app. We will be updating the blog with more information on how to use the new features of Android 4.4 to create great applications.
