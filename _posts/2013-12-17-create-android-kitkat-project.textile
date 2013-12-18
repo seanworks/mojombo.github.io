@@ -10,9 +10,11 @@ p(meta). 17 December 2013
 This post describes how to create an Android application that is compatible with Android 4.4, KitKat. The latest release of Android provides many new features and build on top of the rich Android SDK. The KitKat release reduces the memory utilization of every component, so that applications can be written that are responsive with limited resources. Skip over to "Android Developer":http://developer.android.com/about/versions/kitkat.html for the new features such as the printing framework, SMS providers, full-screen immersive mode, Chromium WebView, and more! Now, follow along for step by step directions to create an Android KitKat application using the Eclipse IDE.
 
 h2. Step 1
+
 Launch the Eclipse IDE
 
 h2. Step 2
+
 File -> New -> Android Application Project
 
 h3. Step 3
