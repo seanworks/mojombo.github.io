@@ -10,13 +10,17 @@ p(meta). 8 January 2014
 The World Wide Web is full of information and being able to quickly sort through a variety of websites is key to make you most efficient.Furthermore, it is imperative to be able to save articles that are of interest immediately or for a later date. These two needs has caused me to develop a workflow that I use to consume information quickly and retain the information that is most important to me.
 
 h2. My Workflow
+
 My tools that I use for my workflow on my laptop are "Feedly":http://feedly.com/ and "Instapaper":http://www.instapaper.com/. When I use my iPhone or iPad, I use the Reeder and Instapaper iOS application. 
 
 h3. Feedly
+
 The Feedly service is key to my workflow because it contains hundreds of sites that I have subscribed to their RSS feed. I use Feedly to categorize each website into major categories, such as news, sports, technology, entrepreneurship, web design, software engineering, and other topics. I can quickly look at specific categories and read the headlines of each article to see if I am interested in exploring this article now, saving it for a later date, or simply ignoring the article altogether. As I work my way through each category, I mark the items as read and Feedly keeps track of the read and unread articles. *Note: I previously used Google Reader as the tool for managing all of my subscribed RSS feeds; however, Google Reader no longer exists and the best alternative I have found is Feedly. See the following link for more information on the "Google Reader shutdown.":http://googlereader.blogspot.com/2013/07/a-final-farewell.html You can access Feedly from your computer using the "Feedly web application.":http://www.feedly.com If you are using an iOS device, install the Reeder application to interface with the Feedly service with an easy to use interface. 
 
 h3. Instapaper
+
 Instapaper is one of my favorite tools and allows me to save articles instantly. Once I save an article, I can either read it immediately, save it for reading later, or save it for archival. Instapaper can be installed in your browser with either a plugin or bookmark, so that you can easily save articles within your web browser. Follow these "steps":http://www.instapaper.com/save for step by step directions on configuring Instapaper. If you are using an iOS device, install the Instapaper application.
 
 h2. Final Notes
+
 Once you have all of the tools installed and configured, this workflow allows you to quickly review hundreds of articles with Feedly and then save the articles of value to Instapaper. Using Feedly, you can immediately read the article if the article is of value to you. If the article is of value, but you wish to read it later, then save the article for future reading with Instapaper. You can then go back and batch read the articles with Instapaper when you have free time to review articles. By saving the articles to Instapaper, you have all of the articles in one location instead. Additionally, Instapaper shows you the length of time it will take to read an article, so if you only have 5 minutes in between meetings you can quickly find an article that can be read in this time frame. If you have a different workflow, please share it with "me!":mailto:sean@seanlabs.com
