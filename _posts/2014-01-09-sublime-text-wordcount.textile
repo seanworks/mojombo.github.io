@@ -27,7 +27,7 @@ Start typing "Package" and then select "Package Control: Add Repository" and hit
 
 h2. Step 5
 
-Enter the following github repo URL for the WordCount.... *https://github.com/SublimeText/WordCount*
+Enter the following github repo URL for the WordCount *https://github.com/SublimeText/WordCount*
 
 h2. Step 6
 
