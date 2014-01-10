@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 p(meta). 8 January 2014
 
-The World Wide Web is full of information and being able to quickly sort through a variety of websites is key to make you most efficient.Furthermore, it is imperative to be able to save articles that are of interest immediately or for a later date. These two needs has caused me to develop a workflow that I use to consume information quickly and retain the information that is most important to me.
+The World Wide Web is full of information and being able to quickly sort through a variety of websites is key to make you most efficient. Furthermore, it is imperative to be able to save articles that are of interest immediately or for a later date. These two needs has caused me to develop a workflow that I use to consume information quickly and retain the information that is most important to me.
 
 h2. My Workflow
 
