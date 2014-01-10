@@ -1,0 +1,46 @@
+---
+layout: post
+title: How to Add Word Count to Sublime Text 2
+---
+
+h1. {{ page.title }}
+
+p(meta). 8 January 2014
+
+I am a huge fan of Sublime Text, and I am also making it a resolution for the new year to write more. In fact, I recently read an "article":http://nathanbarry.com/365/ from Nathan Barry about committing to write 1,000 words for 365 days in a row. When I read the article, it inspired me to take more action to write more each day. So... how does this relate to Sublime Text? Well, follow along as I show you how to add a word count feature to Sublime Text, so that you can keep track of how many words you are writing. "Email me":mailto:sean@seanlabs.com and let me know your other cool Sublime Text tricks.
+
+h2. Step 1
+
+Open Sublime Text 2
+
+h2. Step 2
+
+Install Package Control by selecting "Show Console" from the View dropdown menu. Copy and paste the Python code listed at the following link: "Package Control Installation"https://sublime.wbond.net/installation#st2 into the Console and hit the Enter key
+
+h2. Step 3
+
+Now that you have installed Package Control, choose the Command Palette from the Tools dropdown menu
+
+h2. Step 4
+
+Start typing "Package" and then select "Package Control: Add Repository" and hit the Enter key
+
+h2. Step 5
+
+Enter the WordCount github repo: https://github.com/SublimeText/WordCount
+
+h2. Step 6
+
+Open up the Command Palette again by selecting it from the Tools dropdown menu
+
+h2. Step 7
+
+Start typing "Package" and then select "Package Control: Install Package" and hit the Enter key
+
+h2. Step 8
+
+Start typing "Word" and then select "WordCount" and hit the Enter key
+
+h2. Step 9
+
+WordCount will be installed and you can view the total number of words in your file by looking in the lower left hand corner of Sublime Text
