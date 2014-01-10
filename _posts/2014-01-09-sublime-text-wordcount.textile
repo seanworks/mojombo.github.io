@@ -15,7 +15,7 @@ Open Sublime Text 2
 
 h2. Step 2
 
-Install Package Control by selecting "Show Console" from the View dropdown menu. Copy and paste the Python code listed at the following link: "Package Control Installation"https://sublime.wbond.net/installation#st2 into the Console and hit the Enter key
+Install Package Control by selecting "Show Console" from the View dropdown menu. Copy and paste the Python code listed at the following link: "Package Control Installation":https://sublime.wbond.net/installation#st2 into the Console and hit the Enter key
 
 h2. Step 3
 
@@ -27,7 +27,7 @@ Start typing "Package" and then select "Package Control: Add Repository" and hit
 
 h2. Step 5
 
-Enter the WordCount github repo: https://github.com/SublimeText/WordCount
+Enter the following github repo URL for the WordCount.... *https://github.com/SublimeText/WordCount*
 
 h2. Step 6
 
